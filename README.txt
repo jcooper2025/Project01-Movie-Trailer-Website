@@ -14,7 +14,7 @@ How to run:
     - First if you do not already have python installed, download and install it from here:
         https://www.python.org/downloads/release/python-279/
     - Download the files from github:
-        link here
+        https://github.com/jcooper2025/Movie-Trailers-P01.git
     - After saving the files on your local machine, open a command line window
       and change to the directory with the files you just down loaded.
     - Type in the command:
